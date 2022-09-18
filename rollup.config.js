@@ -42,7 +42,6 @@ export default [
         },
         plugins,
         external,
-        skipPreflightCheck: true,
     },
     /* {... more inputs / outputs} */
     /* emitTypes, */
