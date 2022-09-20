@@ -39,3 +39,4 @@ installing dependencies: `yarn`
 `test`: runs tests
 
 `test:watch`: runs tests in watch mode
+2
